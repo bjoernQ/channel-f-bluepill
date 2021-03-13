@@ -12,7 +12,9 @@ If you want to learn more about the Channel F visit these links
 - https://www.fastcompany.com/3040889/the-untold-story-of-the-invention-of-the-game-cartridge
 - http://www.computinghistory.org.uk/det/5768/Adman-Grandstand-%28Fairchild-Channel-F%29-Video-Entertainment-Computer/
 
-## Sources used to develop the emulator
+[![Alt text](https://img.youtube.com/vi/1F_543eXhB4/0.jpg)](https://www.youtube.com/watch?v=1F_543eXhB4)
+
+## Sources used to implement the emulator
 
 - https://github.com/libretro/FreeChaF/blob/master/src/f8.c
 - https://www.lexaloffle.com/bbs/?pid=71273
